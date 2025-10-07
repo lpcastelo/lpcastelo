@@ -9,4 +9,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp
+![Flutter](https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white)&nbsp
