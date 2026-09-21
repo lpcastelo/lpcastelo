@@ -11,15 +11,15 @@
 
 ### Detalhes
 
-[![lpcastelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpcastelo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![lpcastelo's GitHub stats](https://github-stats-extended.vercel.app/api?username=lpcastelo&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpcastelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lpcastelo&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ### Contatos
 
