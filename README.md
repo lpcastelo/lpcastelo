@@ -9,6 +9,9 @@
 ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpcastelo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 📚 **Formação Acadêmica:**
 
