@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81B372&height=120&section=header"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Castelo;I'm+28+years+old;New+Data+Scientist;Be+Welcome!+:%29">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Castelo;I'm+28+years+old;New+Data+Scientist;Be+Welcome!+:%29">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Castelo;I'm+28+years+old;New+Data+Scientist;Be+Welcome!+:%29" alt="Typing SVG">
-</picture>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E7681&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Castelo;I'm+28+years+old;New+Data+Scientist;Be+Welcome!+:%29)
 <!-- I'm+from+Brazil -->
 
 ### Main skills:
@@ -15,15 +11,27 @@
 
 ### Detalhes
 
-[![lpcastelo's GitHub stats](https://github-stats-extended.vercel.app/api?username=lpcastelo&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lpcastelo&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=lpcastelo&show_icons=true">
+  <img src="https://github-stats-extended.vercel.app/api?username=lpcastelo&show_icons=true" alt="lpcastelo's GitHub stats">
+</picture>
 
 ### Projetos
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix" alt="Readme Card">
+</picture>
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lpcastelo&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lpcastelo&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lpcastelo&layout=compact">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lpcastelo&layout=compact" alt="Top Langs">
+</picture>
 
 ### Contatos
 
