@@ -20,9 +20,9 @@
 ### Projetos
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Projeto-Semantix" alt="Readme Card">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Admissao-Demissaox&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Admissao-Demissao">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=lpcastelo&repo=Admissao-Demissao" alt="Readme Card">
 </picture>
 
 ### Linguagens utilizadas
